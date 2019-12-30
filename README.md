@@ -5,7 +5,7 @@ Ran into problems ages ago when polling Clash Royale API for clan statistics wit
 
 This script converts characters to UTF8 codepoints and then to (HTML) decimal format.
 
-Usage:
+Usage example:</br>
 [user@some]$ bash utf2dec.sh sometext</br>
 \&#115;\&#111;\&#109;\&#101;\&#116;\&#101;\&#120;\&#116;
 

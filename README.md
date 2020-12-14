@@ -1,7 +1,7 @@
 # utf2dec.sh
 Convert UTF8 characters to HTML decimal format
 
-Ran into problems ages ago when polling Clash Royale API for clan statistics with bash, as the names in the game can contain basically any characters, including emojis and had to print them into a HTML-page.
+Ran into problems ages ago when polling Clash Royale API for clan statistics with bash, as the names in the game can contain basically any characters, including emojis and had to print them into an HTML-page.
 
 This script converts characters to UTF8 codepoints and then to (HTML) decimal format.
 
